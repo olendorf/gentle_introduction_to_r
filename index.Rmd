@@ -50,7 +50,7 @@ knit        : slidify::knit2slides
   Interest in popular packages over time.
    
   ![alt text](assets/img/rpopularity.png "R Citations")
-  
+
 ---
 
 ## Why Use R?
