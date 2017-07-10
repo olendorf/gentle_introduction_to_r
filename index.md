@@ -11,10 +11,12 @@ hitheme     : tomorrow      #
 widgets     : []            # {mathjax, quiz, bootstrap}
 mode        : selfcontained # {standalone, draft}
 knit        : slidify::knit2slides
+
+---
+
 --- &twocol 
 
 ## I Very Brief History Of R  
-
 
 *** {name: left}
 
@@ -47,10 +49,32 @@ knit        : slidify::knit2slides
 
 *** {name: right}
   
-  Interest oinpopular packages over time.
+  Interest in popular packages over time.
    
   ![alt text](assets/img/rpopularity.png "R Citations")
-  
+
 ---
+
+## Why Use R?
+
+- It's FREE!
+- Built by statisticians
+- Excellent Visualizations
+- Strong Documentation (Usually)
+- Good For Reproducibility
+- Large Active Community of Users
+
+---
+
+## Goals and Objectives
+
+- Learn basics of R programming
+- Get Familiar with R Studio
+- Create a script
+- Develop a good workflow
+- Do A Basic Analysis
+- Create A Basic Visualization
+- Get More Fancy (Time allowing)
+
 
 
