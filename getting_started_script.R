@@ -1,3 +1,11 @@
+## Setup home directory and preferences
+
+
+
+## Go over the parts of the RSTudio Screen
+
+
+
 # Getting started
 1 + 1  # Entering this on the keyboard gives 2
 
